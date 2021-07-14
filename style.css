@@ -1,3 +1,7 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common styles or utilities */
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
@@ -31,4 +35,9 @@ h1{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.fa-arrow-right{
+    width: 24px;
+    height: 24px;
+    padding-right: 33px;
 }
