@@ -69,6 +69,7 @@ h1{
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 27px;
     /* align-items: center; */
+    text-align: justify;
 }
 .player{
     background-color: white;
